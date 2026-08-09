@@ -1,2 +1,2 @@
 # RIGame2D
-Developer Portfolio: <a>meetjoshi.space</a>
+Developer Portfolio: <a href="https://meetjoshi.space">meetjoshi.space</a>
